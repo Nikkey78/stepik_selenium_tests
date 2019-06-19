@@ -3,7 +3,7 @@ import time
 import unittest
 
 
-class RegistrationTest(unittest.TestCase):
+class TestRegistration(unittest.TestCase):
     def test_form1(self):
 
         link = "http://suninjuly.github.io/registration1.html"  # для правильной формы
